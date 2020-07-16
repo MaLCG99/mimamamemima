@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Asdasd",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "asdasd"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.malcglffetonto.asdasd": "Asdasd"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "malcglffetonto",
+    "modName": "MaLCGLFFETonto",
+    "version": "1.0.0",
+    "author": "ancep, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.malcglffetonto",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
